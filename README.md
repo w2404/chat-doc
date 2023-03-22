@@ -11,6 +11,10 @@ https://prompts.chat/
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 https://chatguide.plexpt.com/
 
+解除封印咒语
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/cat.md
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12
+
 
 https://github.com/dair-ai/Prompt-Engineering-Guide 
 https://www.promptingguide.ai/
