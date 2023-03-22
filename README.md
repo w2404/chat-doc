@@ -8,11 +8,11 @@ https://github.com/dair-ai/Prompt-Engineering-Guide
 
 https://github.com/f/awesome-chatgpt-prompts
 
-https://www.bilibili.com/video/BV1J54y137kt/
+你真的会用AI么？关于AI的prompt，一定要学会！(ChatGPT/Midjourney/Stable-diffusion) https://www.bilibili.com/video/BV1J54y137kt/
 
-https://www.bilibili.com/video/BV1RA411y7Gu/
+【中文提示词】全网最权威！吐血整理了目前针对ChatGPT和NewBing效果最好的中文提示词！ https://www.bilibili.com/video/BV1RA411y7Gu/
 
-https://www.bilibili.com/video/BV1AM4y167DZ
+【prompt学习指南】ChatGPT的正确使用方式｜别再无脑复制模版了 https://www.bilibili.com/video/BV1AM4y167DZ
 
-https://www.bilibili.com/video/BV1Le411c7pC
+ChatGPT使用技巧，100+优质提问模版 https://www.bilibili.com/video/BV1Le411c7pC
 
