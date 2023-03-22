@@ -10,6 +10,10 @@ https://github.com/dair-ai/Prompt-Engineering-Guide
 https://github.com/f/awesome-chatgpt-prompts 
 https://prompts.chat/
 
+中文版
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+https://chatguide.plexpt.com/
+
 你真的会用AI么？关于AI的prompt，一定要学会！(ChatGPT/Midjourney/Stable-diffusion) https://www.bilibili.com/video/BV1J54y137kt/
 
 【中文提示词】全网最权威！吐血整理了目前针对ChatGPT和NewBing效果最好的中文提示词！ https://www.bilibili.com/video/BV1RA411y7Gu/
