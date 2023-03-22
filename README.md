@@ -6,7 +6,7 @@ https://www.promptingguide.ai/
 
 https://github.com/dair-ai/Prompt-Engineering-Guide
 
-为chatgpt设定的100+角色扮演 https://github.com/f/awesome-chatgpt-prompts
+为chatgpt设定的100+角色扮演 https://github.com/f/awesome-chatgpt-prompts https://prompts.chat/
 
 你真的会用AI么？关于AI的prompt，一定要学会！(ChatGPT/Midjourney/Stable-diffusion) https://www.bilibili.com/video/BV1J54y137kt/
 
