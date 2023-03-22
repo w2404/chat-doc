@@ -11,7 +11,7 @@ https://prompts.chat/
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 https://chatguide.plexpt.com/
 
-解除封印咒语
+解除封印咒语,据说这些咒语像漏洞一样，在被openai不断修补。所以如果要用的话，最好看下面issues地址中的最新回复们怎么说，什么咒语依然可以用。
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/cat.md
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12
 
