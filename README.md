@@ -16,3 +16,6 @@ https://github.com/dair-ai/Prompt-Engineering-Guide
 
 ChatGPT使用技巧，100+优质提问模版 https://www.bilibili.com/video/BV1Le411c7pC
 
+绕过ChatGPT回答限制（极速版） https://www.bilibili.com/video/BV1EL411Z7aG/
+
+
