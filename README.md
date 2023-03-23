@@ -19,6 +19,10 @@
 
 https://freegpt.one/
 
+# 科学思考
+
+https://swarma.org/?p=41221
+
 # 资源
 
 如果你看到什么好资源，添加进来。
