@@ -54,4 +54,6 @@ ChatGPT使用技巧，100+优质提问模版 https://www.bilibili.com/video/BV1L
 
 绕过ChatGPT回答限制（极速版） [https://www.bilibili.com/video/BV1EL411Z7aG/](https://www.bilibili.com/video/BV1HM411x7bD/)
 
+教你使用ChatGPT进行深度思考  https://www.bilibili.com/video/BV1F54y1u7QX/
+
 
