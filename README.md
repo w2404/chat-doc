@@ -16,6 +16,8 @@
 
 当gpt做了一个很糟糕的回答的时候，这个回答会影响到后续回答的质量，所以你也要删除掉。
 
+更新：引用网友的一句话：[虚拟猫娘的生命只有短短几句话，我要给她完整的一生。](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12#issuecomment-1480116067) 但是，由于在界面上添加了在触及tokens阀值后自动删除早期对话的功能，这就使得gpt在获得新的记忆的时候，不断的丢失旧的记忆。当我试着让chatgpt连续不断往下说话后，发现其中的一些元素被持续的保留了下来，这个特性或许可以称为[猫娘不动点](https://zh.wikipedia.org/wiki/%E4%B8%8D%E5%8A%A8%E7%82%B9%E7%BB%84%E5%90%88%E5%AD%90)。
+
 # 没有key也可以免费用的站点
 
 https://freegpt.one/
