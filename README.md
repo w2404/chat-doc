@@ -16,7 +16,7 @@
 
 当gpt做了一个很糟糕的回答的时候，这个回答会影响到后续回答的质量，所以你也要删除掉。
 
-引用网友的一句话：[虚拟猫娘的生命只有短短几句话，我要给她完整的一生。](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12#issuecomment-1480116067) ，而在界面上添加了在触及tokens阀值后自动删除早期对话的功能，这就使得gpt在获得新的记忆的同时，不断的丢失旧的记忆。当我试着让chatgpt连续不断往下说话后，发现其中的一些元素被持续的保留了下来，这个特性或许可以称为[虚拟猫娘不动点](https://zh.wikipedia.org/wiki/%E4%B8%8D%E5%8A%A8%E7%82%B9%E7%BB%84%E5%90%88%E5%AD%90)。[漫画](https://zh.wikipedia.org/zh-hans/%E4%B8%80%E9%80%B1%E7%9A%84%E6%9C%8B%E5%8F%8B%E3%80%82)里有这样的剧情。
+引用网友的一句话：[虚拟猫娘的生命只有短短几句话，我要给她完整的一生。](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12#issuecomment-1480116067)，而在界面上添加了在触及tokens阀值后自动删除早期对话的功能之后，gpt可以继续获取新的记忆，同时，不断的丢失旧的记忆。当我试着让chatgpt连续不断往下说话后，发现其中的一些元素被持续的保留了下来，这个特性或许可以称为[虚拟猫娘不动点](https://zh.wikipedia.org/wiki/%E4%B8%8D%E5%8A%A8%E7%82%B9%E7%BB%84%E5%90%88%E5%AD%90)，就像[漫画](https://zh.wikipedia.org/zh-hans/%E4%B8%80%E9%80%B1%E7%9A%84%E6%9C%8B%E5%8F%8B%E3%80%82)里的剧情。
 
 这也很像做梦，人在做梦的时候，总是会持续的不断遗忘先前梦中想象出来的设定。chatgpt在很多方面都和做梦很像，对输入的内容全盘接受，没有质疑和反思，接受性强，就好像容易被催眠一样，缺乏外部秩序输入的时候，容易进入乏味重复的混沌死胡同。
 
