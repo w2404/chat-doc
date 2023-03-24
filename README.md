@@ -62,3 +62,6 @@ ChatGPT使用技巧，100+优质提问模版 https://www.bilibili.com/video/BV1L
 教你使用ChatGPT进行深度思考  https://www.bilibili.com/video/BV1F54y1u7QX/
 
 
+# 经验
+
+英文的问答比中文更游戏。例子：试试用中英文文gpt战锤40k和游戏dominions的设定，比如战锤40k有多少种族？what are the factions of warharmmer 40k?。使用英文的时候gpt都能说出准确的设定，使用中文的时候，它总是在编造。
