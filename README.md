@@ -64,4 +64,4 @@ ChatGPT使用技巧，100+优质提问模版 https://www.bilibili.com/video/BV1L
 
 # 经验
 
-英文的问答比中文问答质量更高。例子：试试用中英文文gpt战锤40k和游戏dominions的设定，比如战锤40k有多少种族？what are the factions of warharmmer 40k?。使用英文的时候gpt都能说出准确的设定，使用中文的时候，它总是在编造。
+英文的问答比中文问答质量更高。例子：试试用中英文问gpt战锤40k和游戏dominions的设定，比如战锤40k有多少种族？what are the factions of warharmmer 40k?。使用英文的时候gpt都能说出准确的设定，使用中文的时候，它总是在编造。
